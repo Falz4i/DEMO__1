@@ -11,7 +11,7 @@ public class Main {
             System.out.println("1. Login Sebagai Mahasiswa");
             System.out.println("2. Login Sebagai Admin");
             System.out.println("3. Exit");
-            System.out.print("Pilih Opsi (1-3): ");
+            System.out.print("Pilih Opsi (1-5): ");
             pilihan= Input.nextInt();
 
             switch (pilihan) {
